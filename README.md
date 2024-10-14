@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakbothraa&label=Profile%20views&color=0e75b6&style=flat" alt="ronakbothraa" /> </p>
 
-- 🔭 I’m currently working on **Gaze-Tracking typing website**
+- 🔭 I’m currently working on **speech to speech translation web app**
 
 - 🌱 I’m currently learning **OpenCV, MediaPipe**
 
