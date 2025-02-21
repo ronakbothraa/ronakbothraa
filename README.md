@@ -5,7 +5,7 @@
 
 - 🔭 currently working on **speech to speech translation web app**
 
-- 🌱 learning **OpenCV, MediaPipe**
+- 🌱 getting better at **Data Structure and Algorithm**
 
 - 📫 contact : **ronakbothraa@gmail.com**
 
