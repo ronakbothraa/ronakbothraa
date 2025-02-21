@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Ronak Bothra</h1>
+<h1 align="center">Ronak Bothra</h1>
 <h3 align="center">Data Scientist and MERN developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronakbothraa&label=Profile%20views&color=0e75b6&style=flat" alt="ronakbothraa" /> </p>
 
-- 🔭 I’m currently working on **speech to speech translation web app**
+- 🔭 currently working on **speech to speech translation web app**
 
-- 🌱 I’m currently learning **OpenCV, MediaPipe**
+- 🌱 learning **OpenCV, MediaPipe**
 
-- 💬 Ask me about **MERN**
-
-- 📫 How to reach me **ronakbothraa@gmail.com**
+- 📫 contact : **ronakbothraa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
