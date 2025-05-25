@@ -47,8 +47,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="NestJS logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  />
@@ -78,22 +76,15 @@
 
 <h2 align="left">🔗 Connect with me</h2>
 <div align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+  <a href="https://www.linkedin.com/in/ronakbothraa/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
   <a href="mailto:ronakbothraa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
   </a>
-  <!-- If you have a personal website/portfolio, add it here -->
-  <!--
-  <a href="YOUR_PORTFOLIO_URL" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" width="52" height="40" alt="Portfolio/Website"/>
+  <a href="https://leetcode.com/u/ronakbothraa/" target="_blank">
+    <img src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" width="52" height="40" alt="Leetcode logo"  />
   </a>
-  -->
 </div>
 
 ###
-
-<!--
-**YourGitHubUsername/YourGitHubUsername** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
