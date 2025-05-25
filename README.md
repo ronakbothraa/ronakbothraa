@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">🚀 Currently Building / Passionate About</h2>
+<h2 align="left">🚀 About Me & My Project </h2>
 
 <p align="left">
   ✨ Developing cutting-edge applications like:
