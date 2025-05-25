@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Ronak Bothra 👋</h1>
 
 <p align="left">
-  A passionate Full-Stack Developer with a strong interest in building intelligent and scalable web applications. I thrive on leveraging modern technologies to create impactful solutions, especially those integrating AI/ML. I'm actively seeking challenging full-stack development roles where I can contribute to innovative projects and grow alongside a talented team.
+  Hey! I'm Ronak, a full-stack developer who enjoys building cool web apps. Lately, for me, that often means a bit of genAI magic thrown in. If that sounds like someone who'd fit well with your team and what you're building, let's chat!
 </p>
 
 ###
