@@ -43,8 +43,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=shadcn" height="40" alt="Shadcn UI logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo"  />
@@ -66,10 +64,6 @@
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" height="40" alt="Pandas logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" height="40" alt="NumPy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
   <img width="12" />
