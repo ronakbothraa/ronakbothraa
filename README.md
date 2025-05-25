@@ -24,8 +24,6 @@
 <h2 align="left">🛠️ My Tech Stack</h2>
 
 <p align="left">A glimpse into the tools and technologies I work with:</p>
-
-**Languages:**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
   <img width="12" />
@@ -34,10 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo"  />
-</div>
-
-**Frontend:**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js logo"  />
@@ -49,10 +44,7 @@
   <img src="https://skillicons.dev/icons?i=tailwindcss" height="40" alt="Tailwind CSS logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=shadcn" height="40" alt="Shadcn UI logo"  />
-</div>
-
-**Backend:**
-<div align="left">
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js logo"  />
@@ -62,10 +54,7 @@
   <img src="https://skillicons.dev/icons?i=flask" height="40" alt="Flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  />
-</div>
-
-**Databases:**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL logo"  />
@@ -75,21 +64,13 @@
   <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="Prisma logo"  />
-</div>
-
-**AI/ML:**
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png" height="40" alt="Scikit-learn logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/512px-Pandas_logo.svg.png" height="40" alt="Pandas logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/512px-NumPy_logo_2020.svg.png" height="40" alt="NumPy logo"  />
-</div>
-
-**DevOps & Cloud:**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS logo"  />
@@ -101,39 +82,13 @@
   <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="GitHub Actions logo"  />
 </div>
 
-**Other Tools & Technologies:**
-<div align="left">
-  <img src="https://img.icons8.com/color/48/json-web-token.png" height="40" alt="JWT logo"  />
-  <img width="12" />
-  <!-- Add a generic API icon or OAuth specific if you find one -->
-  <img src="https://img.icons8.com/fluency/48/api-settings.png" height="40" alt="RESTful APIs" />
-  <img width="12" />
-   <!-- NextAuth has a simple N A logo usually -->
-  <img src="https://next-auth.js.org/img/logo/logo-sm.png" height="40" alt="NextAuth.js logo" />
-  <img width="12" />
-  <!-- TanStack Query (React Query) -->
-  <img src="https://raw.githubusercontent.com/TanStack/query/main/media/repo-header.png" height="40" alt="TanStack Query logo" />
-</div>
-
-###
-
 <h2 align="left">🔗 Connect with me</h2>
-
 <div align="left">
   <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo"  />
   </a>
   <a href="mailto:ronakbothraa@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail logo"  />
-  </a>
-  <a href="YOUR_GITHUB_PROFILE_URL" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="52" height="40" alt="GitHub logo" />
-  </a>
-  <a href="YOUR_LEETCODE_PROFILE_URL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="52" height="40" alt="LeetCode logo" />
-  </a>
-  <a href="YOUR_HACKERRANK_PROFILE_URL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="52" height="40" alt="HackerRank logo" />
   </a>
   <!-- If you have a personal website/portfolio, add it here -->
   <!--
