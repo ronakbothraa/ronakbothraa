@@ -26,49 +26,27 @@
 <p align="left">A glimpse into the tools and technologies I work with:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++ logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5 logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3 logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=tailwindcss" width="40" alt="Tailwind CSS logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" alt="Node.js logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=express" width="40" alt="Express.js logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=flask" width="40" alt="Flask logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" alt="MySQL logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=supabase" width="40" alt="Supabase logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" alt="TensorFlow logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS logo"  />
-  <img width="40" />
   <img src="https://skillicons.dev/icons?i=vercel" width="40" alt="Vercel logo"  />
-  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git logo"  />
 </div>
 
