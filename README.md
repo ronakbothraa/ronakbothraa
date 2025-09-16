@@ -1,6 +1,6 @@
-<h1 align="left">Ronak Bothra</h1>
+<h3 align="left">Ronak Bothra</h1>
 
-<h2 align="left">🛠️ My Tech Stack</h2>
+<h2 align="left">My Tech Stack</h2>
 
 <p align="left">A glimpse into the tools and technologies I work with:</p>
 <div align="left">
