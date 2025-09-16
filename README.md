@@ -1,25 +1,4 @@
-<h1 align="left">Hi, I'm Ronak Bothra 👋</h1>
-
-<p align="left">
-  Hey! I'm Ronak, a full-stack developer who enjoys building cool web apps. Lately, for me, that often means a bit of genAI magic thrown in. If that sounds like someone who'd fit well with your team and what you're building, let's chat!
-</p>
-
-###
-
-<h2 align="left">🚀 About Me & My Projects </h2>
-
-<p align="left">
-  ✨ Developing cutting-edge applications like:
-  <ul>
-    <li><b>Translingo:</b> A Full-Stack Real-Time Speech-to-Speech Translation App (Next.js, Flask/Python, WebSockets, Whisper API, Llama 2, Gemini API).</li>
-    <li><b>Helpgit:</b> An AI-Powered Developer Assistant using a Microservice Architecture (Next.js, Python, Docker, RAG, Gemini API, Postgres, Supabase).</li>
-  </ul>
-  📚 Continuously exploring advancements in Generative AI, cloud-native architectures, and efficient backend systems. <br>
-  🎯 Eager to collaborate on innovative ideas and contribute to both frontend and backend aspects of projects. <br>
-  💬 Let's connect if you're looking for a developer proficient in JavaScript, TypeScript, Python, and modern full-stack frameworks!
-</p>
-
-###
+<h1 align="left">Ronak Bothra</h1>
 
 <h2 align="left">🛠️ My Tech Stack</h2>
 
