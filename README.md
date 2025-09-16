@@ -1,7 +1,5 @@
 <h3 align="left">Ronak Bothra</h1>
 
-<h2 align="left">My Tech Stack</h2>
-
 <p align="left">A glimpse into the tools and technologies I work with:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript logo"  />
